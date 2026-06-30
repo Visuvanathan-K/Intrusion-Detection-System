@@ -2,6 +2,12 @@
 
 ## Overview
 
+# OCR Text Extraction App
+
+## Live Demo
+
+🔗 https://intrusion-detection-system-cv9rr8m3nhghmbov7j6vbc.streamlit.app/
+
 This project is an AI-powered Intrusion Detection System developed using a Long Short-Term Memory (LSTM) deep learning model.
 
 The system analyzes network traffic data and predicts whether the traffic belongs to a normal connection or an intrusion attack.
